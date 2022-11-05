@@ -49,6 +49,7 @@ body {
   
   /* ipad screen - white portion */
   .screen {
+    display: none;
     background: white;
     margin: 13% 6%;
     position: absolute;

@@ -7,7 +7,11 @@ CSS Art is basically drawing with code.
 ### Languages:
 
 This iPad is coded with 
-HTML, CSS (of course), and JavaScript (to add a touch of functionality to the screen).
+HTML, CSS (of course), and JavaScript (to add a touch of functionality to the screen, turning on the screen on button click).
+
+### Preview:
+
+![](assets/css-ipad.gif)
 
 ### Why CSS Art?
 
